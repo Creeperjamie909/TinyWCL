@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/_X8B5mkiJ1Y",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Ducky",
+            "link": "https://youtu.be/mInyfRaPTvU",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
