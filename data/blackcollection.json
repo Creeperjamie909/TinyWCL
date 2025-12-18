@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/66Be2gy4srA",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "tFluffy",
+            "link": "https://cdn.discordapp.com/attachments/1450787730672848906/1451000743971782817/RPReplay_Final1766015805.mov?ex=69453dff&is=6943ec7f&hm=fb23b89dea7741da68f32693e09c15c1f189233b7e7fa3e70227b85ad72aa741&",
+            "hz": "120",
+            "percent": 100
+        }
     ]
 }
