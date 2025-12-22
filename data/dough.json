@@ -7,17 +7,5 @@
     "verification": "https://youtu.be/hywwn8EZ2S0",
     "percentToQualify": "100",
     "records": [
-      {
-        "user": "Ducky",
-        "link": "https://youtu.be/jsr5CeY_Hi0",
-        "hz": "240",
-        "percent": 100
-      },
-        {
-            "user": "tFluffy",
-            "link": "https://cdn.discordapp.com/attachments/1450787730672848906/1451000743426527253/RPReplay_Final1766015834.mov?ex=69453dff&is=6943ec7f&hm=c5ca42b73ab41d0c52ee58afbb325fd4020aebe4a1e2d4bc1cb3a3bc8e27e080&",
-            "hz": "120",
-            "percent": 100
-        }
     ]
 }
